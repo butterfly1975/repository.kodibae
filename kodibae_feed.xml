@@ -1,0 +1,45 @@
+<repositories>
+	
+	<repository>
+      <name>Kodi Bae</name>
+      <username>kodibae</username>
+      <description>Exodus, cCloud TV, Ultimate IPTV</description>
+	</repository>
+	
+	<repository>
+      <name>gaiaorigin</name>
+      <username>Gaia</username>
+      <description>Gaia</description>
+	</repository>
+
+	<repository>
+      <name>elgatito</name>
+      <username>elgatito</username>
+      <description>Elementum</description>
+	</repository>
+	
+	<repository>
+      <name>Wilson Magic</name>
+      <username>Wilson-Magic</username>
+      <description>Masterani Redux</description>
+	</repository>
+	
+	<repository>
+      <name>doko</name>
+      <username>doko-desuka</username>
+      <description>Toonmania2, CTOON Kodi</description>
+	</repository>
+	
+	<repository>
+      <name>DxCx</name>
+      <username>dxcx</username>
+      <description>9Anime</description>
+	</repository>
+	
+	<repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>Free Live TV, USTVnow Plus</description>
+	</repository>
+
+</repositories>

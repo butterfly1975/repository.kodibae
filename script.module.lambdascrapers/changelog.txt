@@ -1,0 +1,64 @@
+Lambdascrapers Module Changelog:
+1.8.2.9
+-Rlsbb fixed
+- final update. time to start fresh. you will know when the community scraper package comes out
+1.8.2.8
+-reverted back to address linux isssue. hope its fixed
+-added:
+animetoon
+0123putlocker
+123fox
+123hbo
+123moviehd
+123movies
+123movies4u
+123moviesex
+123moviesfree
+123moviesfreenow
+123movieshubvip
+123moviesonline
+300mbdownload
+1.8.2.7
+-removed duplicates, more to do!!!
+1.8.2.6
+-change line endings
+1.8.2.5
+-updated scenerls
+-updated seriesonline
+-updated playmovies
+-updated wrzcraft
+-deleted 2DDL
+1.8.2.4
+-added torrent work around, thx Host505
+-removed notworking torrents scrappers
+-removed (1).pyo file...whoops!!!
+1.8.2.3
+-typo
+1.8.2.2
+- Scraper updates Invictus
+1.8.0
+- Scraper updates
+1.7.0
+- Remove nonperforming scraper from defaults
+- Lambdascrapers module as default provider
+- Scraper fixes
+1.6.0
+- Module improvements
+- Added German and Polish providers
+- Updated Scrapers, Removed Duplicates
+1.5.0
+-Updated provider settings.
+1.4.0
+- Added settings.  Providers can be be enabled/disabled.
+1.3.0
+- Updated Scrapers, Removed Duplicates
+1.2.0
+- Added some community submitted scrapers
+- General Scraper Housekeeping
+- Removed/Quarantined scrapers with duplicate self.baselinks
+- Removed/Quarantined scrapers that returned 404s or 503s
+- Added Modules directory
+1.1.0
+- Merged Scrapers
+1.0.0
+- Initial commit
